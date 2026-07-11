@@ -1,3 +1,6 @@
+#water buddy
+#created by ishwarya
+#python+ tkinter
 import tkinter as tk
 
 root = tk.Tk()
